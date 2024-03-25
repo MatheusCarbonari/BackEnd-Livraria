@@ -39,8 +39,8 @@ npm start
 ### PUT /autores/:id: Atualiza um autor existente pelo ID.
 ### DELETE /autores/:id: Remove um autor pelo ID.
 
-### Contribuindo
+# Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
 
-### Licença
+# Licença
 Este projeto está licenciado sob a Licença MIT.
